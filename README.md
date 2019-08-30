@@ -70,9 +70,17 @@
 □ BPM連動  
 ##### [POWAPOWA(youtube)](https://www.youtube.com/watch?v=9REvvSQ6Cv0)
 
-#### POWAPOWA
-![POWAPOWA](https://user-images.githubusercontent.com/43961147/64016746-be36b280-cb62-11e9-9ce0-d9fa10d8cce9.gif)  
+#### TICKTICK
+![TICKTICK](https://user-images.githubusercontent.com/43961147/64017053-93009300-cb63-11e9-82bd-b96d829b8bbb.gif)  
 □ Particle  
 □ post processing  
-□ BPM連動  
-##### [POWAPOWA(youtube)](https://www.youtube.com/watch?v=9REvvSQ6Cv0)
+□ マイク音連動
+□ ラインレンダラー  
+##### [TICKTICK(youtube)](https://youtu.be/SARC8YOi1qo)
+
+#### TICKTICK
+![TICKTICK](https://user-images.githubusercontent.com/43961147/64017053-93009300-cb63-11e9-82bd-b96d829b8bbb.gif)  
+□ Particle  
+□ post processing  
+□ マイク音連動    
+##### [TICKTICK(youtube)](https://youtu.be/SARC8YOi1qo)
