@@ -55,9 +55,10 @@
 □ BPM連動  
 ##### [GIZAGIZA(youtube)](https://youtu.be/A0VNXdd7vtk)
 
-#### GIZAGIZA
-![GIZAGIZA](https://user-images.githubusercontent.com/43961147/64016288-84b17780-cb61-11e9-8b47-83b5bc1ea717.gif)   
+#### STARBEAT
+![STARBEAT](https://user-images.githubusercontent.com/43961147/64016577-508a8680-cb62-11e9-98f1-e263b14d3f26.gif)  
 □ Particle  
 □ post processing  
 □ BPM連動  
-##### [GIZAGIZA(youtube)](https://youtu.be/A0VNXdd7vtk)
+□ マイク音連動
+##### [STARBEAT(youtube)](https://youtu.be/q1juyMbld90)
