@@ -48,11 +48,16 @@
 □ マイク音連動 
 ##### [HAKONIWA(youtube)](https://youtu.be/m2CAChNuiNU)
 
-#### HAKONIWA
-![HAKONIWA](https://user-images.githubusercontent.com/43961147/64016013-d4dc0a00-cb60-11e9-890e-7bf81cd74509.gif)  
+#### GIZAGIZA
+![GIZAGIZA](https://user-images.githubusercontent.com/43961147/64016288-84b17780-cb61-11e9-8b47-83b5bc1ea717.gif)   
 □ Particle  
 □ post processing  
 □ BPM連動  
-□ Sheder
-##### [HAKONIWA(youtube)](https://youtu.be/m2CAChNuiNU)
+##### [GIZAGIZA(youtube)](https://youtu.be/A0VNXdd7vtk)
 
+#### GIZAGIZA
+![GIZAGIZA](https://user-images.githubusercontent.com/43961147/64016288-84b17780-cb61-11e9-8b47-83b5bc1ea717.gif)   
+□ Particle  
+□ post processing  
+□ BPM連動  
+##### [GIZAGIZA(youtube)](https://youtu.be/A0VNXdd7vtk)
