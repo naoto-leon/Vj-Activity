@@ -74,7 +74,7 @@
 ![TICKTICK](https://user-images.githubusercontent.com/43961147/64017053-93009300-cb63-11e9-82bd-b96d829b8bbb.gif)  
 □ Particle  
 □ post processing  
-□ マイク音連動
+□ マイク音連動  
 □ ラインレンダラー  
 ##### [TICKTICK(youtube)](https://youtu.be/SARC8YOi1qo)
 
