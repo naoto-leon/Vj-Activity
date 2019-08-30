@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{03726B83-79E9-FF13-160A-A50466F5B564}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Vj1.cs">
+    <Files>
+      <File FileName="Assets/scripts/vj14.cs" Line="21" Column="1" />
+      <File FileName="Assets/scripts/VJ14orijin.cs" />
+      <File FileName="Assets/scripts/vj14last.cs" />
+      <File FileName="Assets/scripts/Vj1.cs" Line="31" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vj-Circle(Not lwrp and hdrp)" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa787fe0-ba89-43c1-8135-eb753609aaad" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
