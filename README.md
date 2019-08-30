@@ -45,7 +45,7 @@
 ![HAKONIWA](https://user-images.githubusercontent.com/43961147/64016013-d4dc0a00-cb60-11e9-890e-7bf81cd74509.gif)  
 □ Particle  
 □ post processing  
-□ BPM連動  
+□ マイク音連動 
 ##### [HAKONIWA(youtube)](https://youtu.be/m2CAChNuiNU)
 
 #### HAKONIWA
