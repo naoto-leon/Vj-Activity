@@ -36,9 +36,9 @@
 ![Tamatama](https://user-images.githubusercontent.com/43961147/64015026-904f6f00-cb5e-11e9-833a-e9fca662dd55.gif)  
 □ Particle  
 □ post processing  
-□ BPM連動
-□ Sheder
-□ マイク音連動
+□ BPM連動  
+□ Sheder  
+□ マイク音連動  
 ##### [TAMATAMA(youtube)](https://youtu.be/fOx9jCOwnes)
 
 #### HAKONIWA
@@ -46,7 +46,6 @@
 □ Particle  
 □ post processing  
 □ BPM連動  
-□ Sheder
 ##### [HAKONIWA(youtube)](https://youtu.be/m2CAChNuiNU)
 
 #### HAKONIWA
