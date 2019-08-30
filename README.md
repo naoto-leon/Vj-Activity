@@ -38,6 +38,7 @@
 □ post processing  
 □ BPM連動
 □ Sheder
+□ マイク音連動
 ##### [TAMATAMA(youtube)](https://youtu.be/fOx9jCOwnes)
 
 #### TAMATAMA
@@ -46,4 +47,5 @@
 □ post processing  
 □ BPM連動
 □ Sheder
+□ マイク音連動
 ##### [TAMATAMA(youtube)](https://youtu.be/fOx9jCOwnes)
